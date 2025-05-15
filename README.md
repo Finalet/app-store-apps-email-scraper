@@ -1,4 +1,12 @@
+PURELY FOR RESEARCH PURPOSES. DO NOT USE THIS TOOL.
+
 ## Instructions
+
+A tool that scrapes emails listed on apps on the App Store. Can scrape deep, starting with the provided apps, then going onto their "Similar apps" and so on.
+
+- Looks for emails in the whole App Store page (description, whats new, reviews, and so on... You can't hide).
+- Looks for emails in apps' listed websites, support pages, and privacy policies.
+- Decompiles some protected emails from gibberish (cloudflare bot protection, my ass).
 
 ### 1. Setup
 
