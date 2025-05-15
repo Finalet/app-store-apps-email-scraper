@@ -30,7 +30,7 @@ Use `depth=*` parameter to control how many interations of scraping "Similar app
 npm run start -- depth=2
 ```
 
-Add `rfs=0` parameter if you don't want to save results from the first step (use apps from the first step only to collect more apps and continue from them).
+Add `rfs=0` parameter if you don't want to save results from the first step (use apps from the first step only to collect "Similar apps" and continue from them).
 ```
 npm run start -- rfs=0
 ```
